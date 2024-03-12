@@ -13,6 +13,7 @@ sprawdzi czy dane w dodanym adresie są poprawne.
 
 
 Zadanie 2.:
+
 zaloguje się na tego samego użytkownika z zadania 1,
 
 wybierze do zakupu Hummingbird Printed Sweater (opcja dodatkowa: sprawdzi czy rabat na niego wynosi 20%),
