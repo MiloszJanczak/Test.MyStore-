@@ -36,9 +36,3 @@ kliknie na "order with an obligation to pay",
 
 zrobi screenshot z potwierdzeniem zamówienia i kwotą.
 
-Zadanie warsztatowe 2 (dowolny sposób)
-
-Dodatkowe kroki dla chętnych:
-
-Wejdź w historię zamówień i detale (najpierw kliknij w użytkownika zalogowanego, później kafelek),
-sprawdź czy zamówienie znajduje się na liście ze statusem "Awaiting check payment" i kwotą taką samą jak na zamówieniu dwa kroki wcześniej.
